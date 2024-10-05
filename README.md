@@ -16,10 +16,14 @@ This project is a **Node.js** and **MongoDB** based backend application that dem
 ### Setup and Run :--
 
 1. **Clone the Repository :--**
+
+     https://github.com/RamaLingeswaraRao950/node-mongo-project.git
+3. **Install Dependencies :--**
+
+      npm install
+5. **Start MongoDB :--**
+
+    You must have MongoDB installed and running. Start MongoDB on your local machine : mongod
+6. **Run the Application :--**
    
-2. **Install Dependencies :--**
-     npm install
-3. **Start MongoDB :--**
-   You must have MongoDB installed and running. Start MongoDB on your local machine :-- mongod
-4. **Run the Application :--**
-   To start the server :-- Type "node index.js" and then press enter in your terminal.
+     To start the server : Type "node index.js" and then press enter in your terminal.
